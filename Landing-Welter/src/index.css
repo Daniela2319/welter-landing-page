@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@layer theme {
+  :root {
+    --color-ruralGreen: #1f3d2b;
+    --color-soilBrown: #5c3a21;
+    --color-fieldBeige: #e8dcc3;
+    --font-rustic: serif;
+  }
+}
+
+@layer utilities {
+  .bg-ruralGreen {
+    background-color: var(--color-ruralGreen);
+  }
+  .text-soilBrown {
+    color: var(--color-soilBrown);
+  }
+  .text-fieldBeige {
+    color: var(--color-fieldBeige);
+  }
+  .font-rustic {
+    font-family: var(--font-rustic);
+  }
+}
