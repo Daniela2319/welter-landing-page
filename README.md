@@ -2,7 +2,10 @@
 
 ### Solução Digital para Manutenção de Máquinas Agrícolas
 
-Landing Page institucional desenvolvida para fortalecer a presença digital da **Welter Manutenções**, empresa especializada em manutenção de máquinas agrícolas e serviços gerais.
+Landing Page institucional desenvolvida em React, com foco em presença digital estratégica para a Welter Manutenções — empresa especializada em manutenção de máquinas agrícolas e serviços gerais.
+
+O projeto foi construído utilizando Vite e Tailwind CSS, priorizando performance, organização de código, responsividade e otimização para SEO e Open Graph.
+
 
 
 
