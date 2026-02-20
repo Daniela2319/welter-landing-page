@@ -101,4 +101,4 @@ npm run dev
 Projeto desenvolvido por Daniela Velter
 Foco em soluções digitais modernas e estratégicas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20DanielaVelter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielavelteredu)
